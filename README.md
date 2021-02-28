@@ -1,6 +1,14 @@
 # python_startup
 Pipenv starter template
 
+# Quick Setup
+
+```bash
+git clone https://github.com/taserbeat/python_startup.git
+cd python_startup
+bash setup.sh
+```
+
 # Prepare
 It should be installed `pipenv` with `pip`.
 
